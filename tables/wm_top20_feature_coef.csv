@@ -1,0 +1,21 @@
+Glasser ROI,Brain Region,Network,x-MNI,y-MNI,z-MNI,Mean Coeff,σ Coeff
+R_33pr,Anterior_Cingulate_and_Medial_Prefrontal,Frontoparietal,3,11,28,0.34,0.16
+R_7Pm,Superior_Parietal,Frontoparietal,5,-67,50,0.32,0.12
+R_d32,Anterior_Cingulate_and_Medial_Prefrontal,Frontoparietal,6,39,27,0.29,0.24
+L_7Pm,Superior_Parietal,Frontoparietal,-5,-68,49,0.27,0.09
+R_AVI,Insular_and_Frontal_Opercular,Frontoparietal,32,25,-4,0.26,0.09
+R_EC,Medial_Temporal,Default,20,-11,-27,0.31,0.06
+L_TE1a,Lateral_Temporal,Default,-60,-4,-25,-0.24,0.08
+L_31pv,Posterior_Cingulate,Default,-10,-44,33,-0.24,0.09
+R_PHA1,Medial_Temporal,Default,20,-34,-17,-0.3,0.12
+R_8BL,Dorsolateral_Prefrontal,Default,11,43,48,-0.47,0.3
+R_VIP,Superior_Parietal,Visual2,21,-63,64,0.31,0.08
+L_FST,MT+_Complex_and_Neighboring_Visual_Areas,Visual2,-48,-68,5,0.24,0.11
+L_V8,Ventral_Stream_Visual,Visual2,-33,-74,-15,-0.26,0.04
+L_33pr,Anterior_Cingulate_and_Medial_Prefrontal,Cingulo-Opercular,-4,9,28,0.26,0.15
+R_IFSa,Inferior_Frontal,Cingulo-Opercular,48,39,2,-0.33,0.11
+R_PFop,Inferior_Parietal,Cingulo-Opercular,62,-20,23,-0.41,0.19
+L_PCV,Posterior_Cingulate,Posterior_Multimodal,-6,-50,48,0.38,0.06
+R_PCV,Posterior_Cingulate,Posterior_Multimodal,5,-52,50,0.28,0.06
+R_AAIC,Insular_and_Frontal_Opercular,Orbito-Affective,35,15,-12,0.27,0.11
+L_AIP,Superior_Parietal,Dorsal_Attention,-40,-39,41,0.32,0.16

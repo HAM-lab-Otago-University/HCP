@@ -1,0 +1,21 @@
+Glasser ROI,Cortex,Network,x-MNI,y-MNI,z-MNI,Magnitude
+R_8BL,Dorsolateral_Prefrontal,Default,11,43,48,0.08
+R_STSda,Auditory_Association,Default,51,-1,-17,0.06
+L_9m,Anterior_Cingulate_and_Medial_Prefrontal,Default,-7,54,22,0.06
+R_47m,Orbital_and_Polar_Frontal,Default,32,31,-18,0.05
+R_p32,Anterior_Cingulate_and_Medial_Prefrontal,Default,8,49,-3,0.05
+L_8BM,Anterior_Cingulate_and_Medial_Prefrontal,Frontoparietal,-6,33,44,0.06
+L_IFSa,Inferior_Frontal,Frontoparietal,-47,33,9,0.06
+R_p10p,Orbital_and_Polar_Frontal,Frontoparietal,23,61,1,0.05
+R_IFJp,Inferior_Frontal,Frontoparietal,36,7,28,0.05
+R_PSL,Temporo-Parieto-Occipital_Junction,Cingulo-Opercular,64,-37,27,0.08
+R_PFop,Inferior_Parietal,Cingulo-Opercular,62,-20,23,0.06
+R_p24,Anterior_Cingulate_and_Medial_Prefrontal,Cingulo-Opercular,4,35,17,0.05
+L_PFop,Inferior_Parietal,Cingulo-Opercular,-65,-23,24,0.05
+R_PCV,Posterior_Cingulate,Posterior_Multimodal,5,-52,50,0.07
+L_PCV,Posterior_Cingulate,Posterior_Multimodal,-6,-50,48,0.06
+R_STV,Temporo-Parieto-Occipital_Junction,Posterior_Multimodal,59,-44,20,0.05
+L_PHA3,Medial_Temporal,Dorsal_Attention,-34,-35,-21,0.06
+L_PEF,Premotor,Dorsal_Attention,-47,0,41,0.05
+R_VIP,Superior_Parietal,Visual2,21,-63,64,0.05
+R_6v,Premotor,Somatomotor,58,7,31,0.09

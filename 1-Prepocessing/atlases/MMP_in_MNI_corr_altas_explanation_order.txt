@@ -1,0 +1,3 @@
+In this HCP-MMP1 atlas the 180 regions are numbered 1-180. On the right the regions are numbered 201-380 so that 201 is the right homologue of 1; 262 is the right homologue of 62, etc.)
+
+From https://neuroimaging-core-docs.readthedocs.io/en/latest/pages/atlases.html
