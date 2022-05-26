@@ -44,6 +44,7 @@ These are Destrieux 2009 atlas files taken from Nilearn  https://github.com/nile
  
 For those who would like to apply our final models to their data, we provided coefficients of each brain modalities here:  
 HCP/images/   - cortex CIFTI files and 
+
 HCP/tables/  -  tables with top20 and all parcels 
 
  
