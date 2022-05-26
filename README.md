@@ -42,10 +42,6 @@ destrieux2009_rois_labels_lateralized.csv and destrieux2009_rois_lateralized.nii
 These are Destrieux 2009 atlas files taken from Nilearn  https://github.com/nilearn/nilearn/blob/1607b524/nilearn/datasets/atlas.py#L185  https://www.nitrc.org/frs/download.php/11942/  
 
  
-For those who would like to apply our final models to their data, we provided coefficients of each brain modalities here:  
-HCP/images/   - cortex CIFTI files and 
-
-HCP/tables/  -  tables with top20 and all parcels 
 
  
 
